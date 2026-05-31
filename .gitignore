@@ -1,0 +1,6 @@
+Start Code/EX-1/node_modules/
+Start Code/EX-2/node_modules/
+dist/
+build/
+*.log
+.env
